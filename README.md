@@ -1,2 +1,2 @@
 # guvi
-[link](lkfrontend.netlify.app)
+[link](https://lkfrontend.netlify.app/)
