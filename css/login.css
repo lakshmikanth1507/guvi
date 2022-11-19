@@ -1,0 +1,15 @@
+*{
+    font-family: monospace;
+}
+input[type="text"]{
+    justify-content: center;
+
+}
+a{
+    text-decoration: none;
+}
+input[type="button"]{
+    color: aqua;
+    background: lightgrey;
+    border-radius: 10px;
+}
